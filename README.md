@@ -1,6 +1,7 @@
 <div align="center">
 
 [![Hello World, I'm Vinayak!](assets/header.gif)](https://github.com/vinayakkaladhar)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinayak-kaladhar-38064657/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vinayak.kaladhar@gmail.com?subject=Hello%20Vinayak,%20From%20Github)
