@@ -77,4 +77,12 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
+<div align="center">
+  <h2>💬 Let's Connect</h2>
+  <p>Feel free to reach out!</p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vinayakkaladhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
+</div>
 </div>
