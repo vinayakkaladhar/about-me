@@ -25,24 +25,34 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 [![Vue.js, Node.js, ,Java, Python, Ruby, JavaScript, TypeScript, AWS](https://skillicons.dev/icons?i=vue,nodejs,java,python,ruby,js,ts,aws)](https://skillicons.dev)
 
-## Frameworks:
+## Supporting Frameworks:
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
 </p>
 
-## Testing & Automation:
+## Automation Tooling:
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Tosca-0083CA?style=for-the-badge&logoColor=white" alt="Tosca" />
   <img src="https://img.shields.io/badge/REST_Assured-008FC7?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured" />
-  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter" />
   <img src="https://img.shields.io/badge/Appium-4727A0?style=for-the-badge&logo=appium&logoColor=white" alt="Appium">
   <img src="https://img.shields.io/badge/Grafana%20K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="Grafana K6">
 </p>
+
+## DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white" alt="Bitrise" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
 ## Monitoring & Observability
 <p>
@@ -56,6 +66,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayakkaladhar&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinayakkaladhar&show_icons=true&count_private=true&theme=dark&include_all_commits=true"     />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkaladhar&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
