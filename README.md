@@ -6,7 +6,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full-stack+Quality+Engineer;🛠+Test+Automation+Specialist;📊+Performance+%26+Load+Testing+Expert;🤖+Playwright+%7C+Appium+%7C+Tosca+%7C+K6;☁️+CI/CD+with+Bitrise+%26+Kibana;💡+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full-stack+Quality+Engineer;🛠+Test+Automation+Specialist;📊+Performance+%26+Load+Testing+Expert;🤖+Playwright+%7C+Appium+%7C+Tosca+%7C+K6+%7C+Rest+Assured;💡+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false" />
   </a>
 </p>
 
