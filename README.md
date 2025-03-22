@@ -65,7 +65,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 🏆 My Stats:
 
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayakkaladhar&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinayakkaladhar&show_icons=true&count_private=true&theme=dark&include_all_commits=true"     />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkaladhar&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
